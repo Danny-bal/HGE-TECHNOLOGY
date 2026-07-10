@@ -1,0 +1,240 @@
+[
+  {
+    "id": 101, "name": "Tecno Spark Go 3", "brand": "Tecno", "category": "Celulares",
+    "description": "Pantalla IPS de 6.75 pulgadas a 120 Hz, cámara principal de 13 MP, batería de 5000 mAh y resistencia IP64.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/tecno-spark-go-3.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-29",
+    "specs": { "memory": "64 / 128 GB · 8 GB RAM", "display": "IPS 6.75” · 120 Hz", "camera": "13 MP", "battery": "5000 mAh · 15 W" }
+  },
+  {
+    "id": 102, "name": "Tecno Spark 40 Pro", "brand": "Tecno", "category": "Celulares",
+    "description": "Pantalla AMOLED 1.5K de 144 Hz, Helio G100 Ultimate, cámara de 50 MP y supercarga de 45 W.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/tecno-spark-40-pro.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-29",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED 6.78” · 144 Hz", "camera": "50 MP", "battery": "5200 mAh · 45 W" }
+  },
+  {
+    "id": 103, "name": "Tecno Spark 50", "brand": "Tecno", "category": "Celulares",
+    "description": "Pantalla fluida de 120 Hz, cámara de 50 MP con IA y batería de gran autonomía de 6700 mAh.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/tecno-spark-50.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-29",
+    "specs": { "memory": "256 GB · 8 GB RAM", "display": "IPS 6.78” · 120 Hz", "camera": "50 MP", "battery": "6700 mAh · 18 W" }
+  },
+  {
+    "id": 104, "name": "Tecno Camon 50 Pro", "brand": "Tecno", "category": "Celulares",
+    "description": "Pantalla AMOLED curva 1.5K, cámara triple con zoom 3x, protección IP68/IP69K y carga rápida.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/tecno-camon-50-pro.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-29",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED curva 6.78” · 144 Hz", "camera": "50 + 50 + 8 MP", "battery": "6150 mAh · 45 W" }
+  },
+  {
+    "id": 105, "name": "Infinix Smart 20", "brand": "Infinix", "category": "Celulares",
+    "description": "Equipo versátil con pantalla de 120 Hz, batería de 5200 mAh y almacenamiento ampliable.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-smart-20.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "128 GB · 8 GB RAM", "display": "IPS 6.78” · 120 Hz", "camera": "8 MP", "battery": "5200 mAh · 15 W" }
+  },
+  {
+    "id": 106, "name": "Infinix Hot 60i", "brand": "Infinix", "category": "Celulares",
+    "description": "Cámara de 50 MP, pantalla de 120 Hz, carga rápida de 45 W y conectividad NFC.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-hot-60i.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · hasta 16 GB RAM", "display": "IPS 6.7” · 120 Hz", "camera": "50 MP", "battery": "5160 mAh · 45 W" }
+  },
+  {
+    "id": 107, "name": "Infinix Hot 60 Pro", "brand": "Infinix", "category": "Celulares",
+    "description": "Pantalla AMOLED 1.5K de 144 Hz, Helio G200 y altavoces estéreo en un diseño de alto rendimiento.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-hot-60-pro.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED 6.78” · 144 Hz", "camera": "50 MP", "battery": "5160 mAh · 45 W" }
+  },
+  {
+    "id": 108, "name": "Infinix Hot 60 Pro Plus", "brand": "Infinix", "category": "Celulares",
+    "description": "Diseño ultradelgado con pantalla AMOLED curva 3D, cámara Sony de 50 MP y carga rápida de 45 W.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-hot-60-pro-plus.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED curva 1.5K · 144 Hz", "camera": "Sony 50 MP", "battery": "5160 mAh · 45 W" }
+  },
+  {
+    "id": 109, "name": "Infinix Hot 70", "brand": "Infinix", "category": "Celulares",
+    "description": "Batería de 6000 mAh, cámara de 50 MP, sonido DTS y certificación de resistencia IP65.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-hot-70.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · hasta 16 GB RAM", "display": "IPS 6.78” · 120 Hz", "camera": "50 MP", "battery": "6000 mAh · 45 W" }
+  },
+  {
+    "id": 110, "name": "Infinix Note 50 Pro", "brand": "Infinix", "category": "Celulares",
+    "description": "Pantalla AMOLED de 144 Hz, cámara de 50 MP con OIS y carga ultrarrápida con soporte inalámbrico.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-note-50-pro.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · hasta 24 GB RAM", "display": "AMOLED 6.78” · 144 Hz", "camera": "50 MP OIS + 8 MP", "battery": "5200 mAh · 90 W" }
+  },
+  {
+    "id": 111, "name": "Infinix Note 60 5G", "brand": "Infinix", "category": "Celulares",
+    "description": "Conectividad 5G, pantalla AMOLED 1.5K, cámara con estabilización OIS y batería de 6500 mAh.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-note-60-5g.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED 1.5K · 144 Hz", "camera": "50 MP OIS + 8 MP", "battery": "6500 mAh · 45 W" }
+  },
+  {
+    "id": 112, "name": "Infinix Note 60 Pro 5G", "brand": "Infinix", "category": "Celulares",
+    "description": "Pantalla AMOLED curva de alto brillo, procesador Snapdragon 5G y sonido estéreo JBL.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/infinix-note-60-pro-5g.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-28",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED curva 1.5K · 144 Hz", "camera": "Cámara con OIS", "battery": "Carga rápida USB-C" }
+  },
+  {
+    "id": 113, "name": "Honor X5C", "brand": "Honor", "category": "Celulares",
+    "description": "Pantalla de 6.74 pulgadas, cámara de 50 MP, batería de 5260 mAh y diseño ultradelgado.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-x5c.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "64 / 128 GB · 8 GB RAM", "display": "TFT 6.74” · 90 Hz", "camera": "50 MP", "battery": "5260 mAh · 15 W" }
+  },
+  {
+    "id": 114, "name": "Honor X5C Plus", "brand": "Honor", "category": "Celulares",
+    "description": "Más almacenamiento para el día a día, cámara de alta resolución y autonomía prolongada.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-x5c-plus.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "256 GB · 12 GB RAM", "display": "Pantalla de alta fluidez", "camera": "Cámara con IA", "battery": "Batería de larga duración" }
+  },
+  {
+    "id": 115, "name": "Honor X6C", "brand": "Honor", "category": "Celulares",
+    "description": "Smartphone Honor con amplio almacenamiento, memoria expandida y funciones inteligentes de cámara.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-x6c.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "256 GB · hasta 16 GB RAM", "display": "Pantalla de alta fluidez", "camera": "Cámara con IA", "battery": "Carga USB-C" }
+  },
+  {
+    "id": 116, "name": "Honor X7D", "brand": "Honor", "category": "Celulares",
+    "description": "Diseño moderno, gran capacidad de memoria y herramientas de inteligencia artificial integradas.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-x7d.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "Pantalla amplia", "camera": "Fotografía con IA", "battery": "Batería de alta autonomía" }
+  },
+  {
+    "id": 117, "name": "Honor X8D", "brand": "Honor", "category": "Celulares",
+    "description": "Equipo de alto rendimiento con opciones de 256 y 512 GB, cámara avanzada y diseño premium.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-x8d.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "256 / 512 GB · 16 GB RAM", "display": "Pantalla de alta resolución", "camera": "Sistema multicámara", "battery": "Carga rápida USB-C" }
+  },
+  {
+    "id": 118, "name": "Honor Magic 8 Lite 5G", "brand": "Honor", "category": "Celulares",
+    "description": "Conectividad 5G, acabado premium, batería de larga duración y amplio almacenamiento interno.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-magic-8-lite-5g.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "256 / 512 GB · 16 GB RAM", "display": "Pantalla premium", "camera": "Cámara con IA", "battery": "Carga rápida USB-C" }
+  },
+  {
+    "id": 119, "name": "Honor 400 5G", "brand": "Honor", "category": "Celulares",
+    "description": "Pantalla AMOLED 1.5K, cámara principal de 200 MP con OIS, batería de 6000 mAh y carga de 80 W.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/honor-400-5g.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-27",
+    "specs": { "memory": "512 GB · 24 GB RAM", "display": "AMOLED 1.5K · 120 Hz", "camera": "200 MP OIS + 12 MP", "battery": "6000 mAh · 80 W" }
+  },
+  {
+    "id": 120, "name": "Redmi A5", "brand": "Redmi", "category": "Celulares",
+    "description": "Modelo accesible para uso diario con cámara de alta resolución y almacenamiento ampliable.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-a5.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "128 GB · 4 GB RAM", "display": "Pantalla amplia", "camera": "Cámara principal", "battery": "Carga USB-C" }
+  },
+  {
+    "id": 121, "name": "Redmi 07 Pro", "brand": "Redmi", "category": "Celulares",
+    "description": "Equipo Redmi de uso cotidiano con almacenamiento ampliable, doble SIM y conexión USB-C.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-07-pro.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "128 GB · 4 GB RAM", "display": "Pantalla amplia", "camera": "Cámara con IA", "battery": "Batería de larga duración" }
+  },
+  {
+    "id": 122, "name": "Redmi 15", "brand": "Redmi", "category": "Celulares",
+    "description": "Gran pantalla, almacenamiento de 256 GB y memoria extendida para una experiencia fluida.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-15.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "Pantalla de alta fluidez", "camera": "Cámara con IA", "battery": "Carga rápida USB-C" }
+  },
+  {
+    "id": 123, "name": "Redmi 15C", "brand": "Redmi", "category": "Celulares",
+    "description": "Pantalla amplia, audio estéreo Dolby Atmos y almacenamiento generoso para el uso diario.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-15c.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "Pantalla de alta fluidez", "camera": "Cámara con IA", "battery": "Carga rápida USB-C" }
+  },
+  {
+    "id": 124, "name": "Redmi Note 15", "brand": "Redmi", "category": "Celulares",
+    "description": "Pantalla AMOLED de 120 Hz, cámara de 108 MP, batería de 6000 mAh y sonido Dolby Atmos.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-note-15.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED 6.77” · 120 Hz", "camera": "108 + 2 MP", "battery": "6000 mAh · hasta 45 W" }
+  },
+  {
+    "id": 125, "name": "Redmi Note 15 Pro 4G", "brand": "Redmi", "category": "Celulares",
+    "description": "Cámara de 200 MP con OIS, pantalla AMOLED protegida por Victus 2 y batería de 6500 mAh.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-note-15-pro-4g.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "256 GB · 16 GB RAM", "display": "AMOLED 6.77” · 120 Hz", "camera": "200 MP OIS + 8 MP", "battery": "6500 mAh · 45 W" }
+  },
+  {
+    "id": 126, "name": "Redmi Note 15 Pro 5G", "brand": "Redmi", "category": "Celulares",
+    "description": "Conectividad 5G, cámara de 200 MP, batería de silicio-carbono y protección extrema IP68/IP69K.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-note-15-pro-5g.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "256 / 512 GB · 8 GB RAM", "display": "AMOLED 1.5K 6.83” · 120 Hz", "camera": "200 MP + 8 MP", "battery": "6580 mAh · 45 W" }
+  },
+  {
+    "id": 127, "name": "Redmi Note 15 Pro Plus 5G", "brand": "Redmi", "category": "Celulares",
+    "description": "Pantalla AMOLED curva 1.5K, Snapdragon 5G, cámara de 200 MP y carga ultrarrápida de 100 W.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/redmi-note-15-pro-plus-5g.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-26",
+    "specs": { "memory": "512 GB · 12 GB RAM", "display": "AMOLED curva 1.5K · 120 Hz", "camera": "200 MP OIS + 8 + 2 MP", "battery": "6500 mAh · 100 W" }
+  },
+  {
+    "id": 128, "name": "POCO X8 Pro 5G", "brand": "POCO", "category": "Celulares",
+    "description": "Procesador Dimensity 8500-Ultra, pantalla AMOLED 1.5K y carga de 100 W para alto rendimiento.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/poco-x8-pro-5g.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-25",
+    "specs": { "memory": "512 GB · 12 GB RAM", "display": "AMOLED 1.5K 6.59” · 120 Hz", "camera": "50 MP OIS + 8 MP", "battery": "6500 mAh · 100 W" }
+  },
+  {
+    "id": 129, "name": "POCO X8 Pro Max 5G", "brand": "POCO", "category": "Celulares",
+    "description": "Rendimiento insignia Dimensity 9500S, batería de 8500 mAh y carga HyperCharge de 100 W.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/poco-x8-pro-max-5g.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-25",
+    "specs": { "memory": "512 GB · 12 GB RAM", "display": "AMOLED 1.5K 6.83” · 120 Hz", "camera": "50 MP OIS + 8 MP", "battery": "8500 mAh · 100 W" }
+  },
+  {
+    "id": 130, "name": "Samsung Galaxy A07", "brand": "Samsung", "category": "Celulares",
+    "description": "Pantalla de 6.7 pulgadas, cámara de 50 MP y soporte extendido de actualizaciones de sistema.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/samsung-a07.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-24",
+    "specs": { "memory": "128 GB · 4 GB RAM", "display": "PLS 6.7” · 90 Hz", "camera": "50 + 2 MP", "battery": "5000 mAh · 25 W" }
+  },
+  {
+    "id": 131, "name": "Samsung Galaxy A17", "brand": "Samsung", "category": "Celulares",
+    "description": "Pantalla Super AMOLED, cámara triple de 50 MP con OIS y soporte de actualizaciones prolongado.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/samsung-a17.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-24",
+    "specs": { "memory": "256 GB · 8 GB RAM", "display": "Super AMOLED 6.7” · 90 Hz", "camera": "50 MP OIS + 5 + 2 MP", "battery": "5000 mAh · 25 W" }
+  },
+  {
+    "id": 132, "name": "Samsung Galaxy A56", "brand": "Samsung", "category": "Celulares",
+    "description": "Pantalla Super AMOLED de 120 Hz, conectividad 5G, cámara OIS y protección IP67.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/samsung-a56.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-24",
+    "specs": { "memory": "256 GB · 12 GB RAM", "display": "Super AMOLED 6.5” · 120 Hz", "camera": "50 MP OIS + 12 + 5 MP", "battery": "5000 mAh · 25 W" }
+  },
+  {
+    "id": 133, "name": "Samsung Galaxy A57", "brand": "Samsung", "category": "Celulares",
+    "description": "Pantalla amplia de 90 Hz, cámara dual de 50 MP y batería para todo el día.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/samsung-a57.png",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-24",
+    "specs": { "memory": "256 GB · 12 GB RAM", "display": "IPS 6.7” · 90 Hz", "camera": "50 + 2 MP", "battery": "5000 mAh · 25 W" }
+  },
+  {
+    "id": 134, "name": "Apple iPhone 13", "brand": "Apple", "category": "Celulares",
+    "description": "Pantalla Super Retina XDR OLED, chip A15 Bionic, cámara dual y conectividad 5G.",
+    "stock": null, "local": "Consultar", "image": "assets/products/phones/iphone-13.png",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-24",
+    "specs": { "memory": "128 GB · 4 GB RAM", "display": "OLED 6.1” Super Retina XDR", "camera": "12 + 12 MP", "battery": "3227 mAh · MagSafe" }
+  }
+]

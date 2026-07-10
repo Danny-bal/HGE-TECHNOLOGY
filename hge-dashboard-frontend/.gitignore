@@ -1,0 +1,7 @@
+# Archivos fuente de catálogo conservados localmente; el dashboard usa los PNG limpios.
+assets/products/real/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
+*.log

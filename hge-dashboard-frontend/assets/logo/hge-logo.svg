@@ -1,0 +1,7 @@
+<svg width="252" height="72" viewBox="0 0 252 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="70" height="70" rx="20" fill="#101410" stroke="#8BFF00" stroke-opacity=".55"/>
+  <path d="M20 21V51M20 36H45M45 21V51" stroke="#8BFF00" stroke-width="7" stroke-linecap="round"/>
+  <path d="M52 22L62 36L52 50" stroke="white" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="88" y="34" fill="white" font-family="Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="1">HGE</text>
+  <text x="88" y="55" fill="#A8B0A8" font-family="Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="4">TECHNOLOGY</text>
+</svg>

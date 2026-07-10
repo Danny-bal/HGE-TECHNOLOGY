@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1, "name": "Etiquetadora térmica portátil HGE Label Pro", "brand": "HGE", "category": "Etiquetadoras y cintas",
+    "description": "Etiquetadora portátil importada, ideal para organización, inventario y uso comercial.",
+    "stock": 20, "local": "Plaza París", "image": "assets/products/etiquetadoras.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-24"
+  },
+  {
+    "id": 2, "name": "Etiquetadora industrial SmartLabel X2", "brand": "SmartLine", "category": "Etiquetadoras y cintas",
+    "description": "Impresión térmica de alto volumen con conexión USB y diseño robusto para bodegas.",
+    "stock": 9, "local": "Plaza del Valle", "image": "assets/products/etiquetadoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-18"
+  },
+  {
+    "id": 3, "name": "Etiquetadora compacta para inventario", "brand": "LabelPro", "category": "Etiquetadoras y cintas",
+    "description": "Equipo compacto con teclado integrado para rotulación rápida de productos y estanterías.",
+    "stock": 14, "local": "Oficina Norte", "image": "assets/products/etiquetadoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-12"
+  },
+  {
+    "id": 4, "name": "Cinta adhesiva para etiquetadora 12 mm", "brand": "LabelPro", "category": "Etiquetadoras y cintas",
+    "description": "Cinta de impresión nítida y alta adherencia para organización doméstica y comercial.",
+    "stock": 58, "local": "Plaza París", "image": "assets/products/etiquetadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-29"
+  },
+  {
+    "id": 5, "name": "Cinta transparente para etiquetadora 9 mm", "brand": "LabelPro", "category": "Etiquetadoras y cintas",
+    "description": "Cinta transparente con impresión oscura para acabados discretos y profesionales.",
+    "stock": 44, "local": "Plaza del Valle", "image": "assets/products/etiquetadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-21"
+  },
+  {
+    "id": 6, "name": "Cinta térmica resistente al agua", "brand": "HGE", "category": "Etiquetadoras y cintas",
+    "description": "Rollo térmico durable para ambientes húmedos, cocina, refrigeración e inventario.",
+    "stock": 35, "local": "Oficina Norte", "image": "assets/products/etiquetadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-15"
+  },
+  {
+    "id": 7, "name": "Pack de cintas para etiquetadora", "brand": "SmartLine", "category": "Etiquetadoras y cintas",
+    "description": "Paquete surtido de cinco cintas en colores y medidas para múltiples aplicaciones.",
+    "stock": 18, "local": "Plaza París", "image": "assets/products/etiquetadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-09"
+  },
+  {
+    "id": 8, "name": "Rollo de etiquetas térmicas 40 x 30 mm", "brand": "LabelPro", "category": "Etiquetadoras y cintas",
+    "description": "Etiquetas autoadhesivas para precios, códigos, envíos e identificación de productos.",
+    "stock": 72, "local": "Plaza del Valle", "image": "assets/products/etiquetadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-26"
+  },
+  {
+    "id": 9, "name": "Incubadora digital automática 48 huevos", "brand": "AgroHome", "category": "Incubadoras",
+    "description": "Control digital de temperatura, volteo automático y visor transparente de fácil supervisión.",
+    "stock": 11, "local": "Plaza París", "image": "assets/products/incubadoras.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-23"
+  },
+  {
+    "id": 10, "name": "Incubadora digital automática 96 huevos", "brand": "AgroHome", "category": "Incubadoras",
+    "description": "Capacidad ampliada, control de humedad y sistema automático para producción continua.",
+    "stock": 6, "local": "Plaza del Valle", "image": "assets/products/incubadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-15"
+  },
+  {
+    "id": 11, "name": "Incubadora con control de temperatura y humedad", "brand": "HGE", "category": "Incubadoras",
+    "description": "Panel digital preciso con alarmas de temperatura y humedad para mayor control del proceso.",
+    "stock": 8, "local": "Oficina Norte", "image": "assets/products/incubadoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-08"
+  },
+  {
+    "id": 12, "name": "Incubadora automática con volteo programado", "brand": "AgroHome", "category": "Incubadoras",
+    "description": "Volteo programable, ventilación uniforme y lectura digital para incubación estable.",
+    "stock": 13, "local": "Plaza París", "image": "assets/products/incubadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-24"
+  },
+  {
+    "id": 13, "name": "Incubadora compacta 24 huevos", "brand": "SmartLine", "category": "Incubadoras",
+    "description": "Formato compacto para pequeños productores con control automático y bajo consumo.",
+    "stock": 16, "local": "Plaza del Valle", "image": "assets/products/incubadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-03"
+  },
+  {
+    "id": 14, "name": "Incubadora profesional 120 huevos", "brand": "AgroHome", "category": "Incubadoras",
+    "description": "Unidad de alta capacidad con doble bandeja, ventilación forzada y control inteligente.",
+    "stock": 0, "local": "Oficina Norte", "image": "assets/products/incubadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-18"
+  },
+  {
+    "id": 15, "name": "Deshidratadora de alimentos 5 bandejas", "brand": "FoodMax", "category": "Deshidratadoras",
+    "description": "Cinco bandejas apilables y temperatura ajustable para frutas, hierbas y snacks.",
+    "stock": 19, "local": "Plaza París", "image": "assets/products/deshidratadoras.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-22"
+  },
+  {
+    "id": 16, "name": "Deshidratadora digital 8 bandejas", "brand": "FoodMax", "category": "Deshidratadoras",
+    "description": "Panel digital, temporizador y flujo de aire uniforme para resultados consistentes.",
+    "stock": 12, "local": "Plaza del Valle", "image": "assets/products/deshidratadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-11"
+  },
+  {
+    "id": 17, "name": "Deshidratadora comercial de acero", "brand": "FoodMax", "category": "Deshidratadoras",
+    "description": "Cuerpo de acero inoxidable y capacidad comercial para producción frecuente.",
+    "stock": 5, "local": "Oficina Norte", "image": "assets/products/deshidratadoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-04"
+  },
+  {
+    "id": 18, "name": "Deshidratadora compacta para frutas", "brand": "SmartLine", "category": "Deshidratadoras",
+    "description": "Diseño compacto y silencioso, ideal para preparar porciones en casa o pequeños negocios.",
+    "stock": 22, "local": "Plaza París", "image": "assets/products/deshidratadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-19"
+  },
+  {
+    "id": 19, "name": "Deshidratadora profesional 10 bandejas", "brand": "HGE", "category": "Deshidratadoras",
+    "description": "Diez bandejas, control preciso y gran ventilador posterior para trabajo profesional.",
+    "stock": 7, "local": "Plaza del Valle", "image": "assets/products/deshidratadoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-02"
+  },
+  {
+    "id": 20, "name": "Set de mallas para deshidratadora", "brand": "FoodMax", "category": "Deshidratadoras",
+    "description": "Mallas reutilizables para alimentos pequeños, hierbas y preparaciones líquidas.",
+    "stock": 31, "local": "Oficina Norte", "image": "assets/products/deshidratadoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-14"
+  },
+  {
+    "id": 21, "name": "Selladora al vacío compacta", "brand": "SealPro", "category": "Selladoras al vacío",
+    "description": "Conserva alimentos por más tiempo con operación de un toque y diseño compacto.",
+    "stock": 24, "local": "Plaza París", "image": "assets/products/selladoras.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-21"
+  },
+  {
+    "id": 22, "name": "Selladora al vacío profesional", "brand": "SealPro", "category": "Selladoras al vacío",
+    "description": "Doble sellado, modos seco y húmedo, y mayor potencia para uso comercial.",
+    "stock": 10, "local": "Plaza del Valle", "image": "assets/products/selladoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-10"
+  },
+  {
+    "id": 23, "name": "Selladora al vacío con rollo incluido", "brand": "HGE", "category": "Selladoras al vacío",
+    "description": "Kit listo para usar con rollo de bolsas, cortador integrado y control automático.",
+    "stock": 17, "local": "Oficina Norte", "image": "assets/products/selladoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-02"
+  },
+  {
+    "id": 24, "name": "Pack de bolsas para sellado al vacío", "brand": "SealPro", "category": "Selladoras al vacío",
+    "description": "Bolsas gofradas resistentes, aptas para congelación y cocción controlada.",
+    "stock": 49, "local": "Plaza París", "image": "assets/products/selladoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-16"
+  },
+  {
+    "id": 25, "name": "Rollo para selladora al vacío", "brand": "FoodMax", "category": "Selladoras al vacío",
+    "description": "Rollo cortable de alta resistencia para crear bolsas a la medida de cada producto.",
+    "stock": 63, "local": "Plaza del Valle", "image": "assets/products/selladoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-08"
+  },
+  {
+    "id": 26, "name": "Selladora recargable portátil", "brand": "SmartLine", "category": "Selladoras al vacío",
+    "description": "Solución portátil para bolsas especiales con carga USB-C y manejo sencillo.",
+    "stock": 0, "local": "Oficina Norte", "image": "assets/products/selladoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-22"
+  },
+  {
+    "id": 27, "name": "Esquiladora profesional para mascotas", "brand": "PetCare", "category": "Esquiladoras",
+    "description": "Motor silencioso, cuchillas de precisión y accesorios para cortes profesionales.",
+    "stock": 18, "local": "Plaza París", "image": "assets/products/esquiladoras.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-20"
+  },
+  {
+    "id": 28, "name": "Esquiladora inalámbrica recargable", "brand": "PetCare", "category": "Esquiladoras",
+    "description": "Batería de larga duración, indicador digital y cuchilla ajustable de baja vibración.",
+    "stock": 23, "local": "Plaza del Valle", "image": "assets/products/esquiladoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-09"
+  },
+  {
+    "id": 29, "name": "Esquiladora de alta potencia", "brand": "HGE", "category": "Esquiladoras",
+    "description": "Motor de alto torque y cuerpo ergonómico para trabajo continuo y pelaje denso.",
+    "stock": 12, "local": "Oficina Norte", "image": "assets/products/esquiladoras.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-06-01"
+  },
+  {
+    "id": 30, "name": "Kit de peines para esquiladora", "brand": "PetCare", "category": "Esquiladoras",
+    "description": "Ocho peines guía codificados por color para distintas longitudes de corte.",
+    "stock": 38, "local": "Plaza París", "image": "assets/products/esquiladoras.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-20"
+  },
+  {
+    "id": 31, "name": "Repuesto de cuchillas para esquiladora", "brand": "PetCare", "category": "Esquiladoras",
+    "description": "Cuchilla de acero de repuesto con corte preciso y montaje sencillo.",
+    "stock": 29, "local": "Plaza del Valle", "image": "assets/products/esquiladoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-11"
+  },
+  {
+    "id": 32, "name": "Esquiladora reforzada para uso agropecuario", "brand": "AgroHome", "category": "Esquiladoras",
+    "description": "Equipo reforzado con ventilación eficiente para jornadas de corte intensivas.",
+    "stock": 5, "local": "Oficina Norte", "image": "assets/products/esquiladoras.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-12"
+  },
+  {
+    "id": 33, "name": "Batería recargable para cámara", "brand": "CamPower", "category": "Baterías de cámaras",
+    "description": "Batería recargable de alta capacidad para sesiones prolongadas de foto y video.",
+    "stock": 27, "local": "Plaza París", "image": "assets/products/baterias-camara.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-19"
+  },
+  {
+    "id": 34, "name": "Batería compatible para cámara digital", "brand": "CamPower", "category": "Baterías de cámaras",
+    "description": "Repuesto confiable con protección contra sobrecarga y descarga profunda.",
+    "stock": 33, "local": "Plaza del Valle", "image": "assets/products/baterias-camara.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-07"
+  },
+  {
+    "id": 35, "name": "Cargador dual para baterías de cámara", "brand": "CamPower", "category": "Baterías de cámaras",
+    "description": "Carga simultánea de dos baterías con pantalla de nivel y entrada USB-C.",
+    "stock": 21, "local": "Oficina Norte", "image": "assets/products/baterias-camara.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-31"
+  },
+  {
+    "id": 36, "name": "Kit de baterías para cámara", "brand": "HGE", "category": "Baterías de cámaras",
+    "description": "Dos baterías de repuesto y cargador dual compacto para creadores en movimiento.",
+    "stock": 16, "local": "Plaza París", "image": "assets/products/baterias-camara.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-18"
+  },
+  {
+    "id": 37, "name": "Batería de cámara alta capacidad", "brand": "PowerPlus", "category": "Baterías de cámaras",
+    "description": "Mayor autonomía y celdas protegidas para grabación de video y fotografía continua.",
+    "stock": 14, "local": "Plaza del Valle", "image": "assets/products/baterias-camara.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-06"
+  },
+  {
+    "id": 38, "name": "Cargador de viaje para batería de cámara", "brand": "CamPower", "category": "Baterías de cámaras",
+    "description": "Cargador liviano con cable USB y protección eléctrica para llevar en el bolso.",
+    "stock": 0, "local": "Oficina Norte", "image": "assets/products/baterias-camara.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-09"
+  },
+  {
+    "id": 39, "name": "Trípode compacto para cámara y celular", "brand": "NovaTech", "category": "Accesorios",
+    "description": "Trípode ajustable y liviano con soporte universal para creación de contenido.",
+    "stock": 36, "local": "Plaza París", "image": "assets/products/accesorios-hge.svg",
+    "status": "Destacado", "isFeatured": true, "isPromotion": false, "createdAt": "2026-06-18"
+  },
+  {
+    "id": 40, "name": "Cable USB-C de carga rápida", "brand": "PowerPlus", "category": "Accesorios",
+    "description": "Cable reforzado con soporte de carga rápida y transferencia estable de datos.",
+    "stock": 67, "local": "Plaza del Valle", "image": "assets/products/accesorios-hge.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-06-06"
+  },
+  {
+    "id": 41, "name": "Adaptador de corriente universal", "brand": "PowerPlus", "category": "Accesorios",
+    "description": "Adaptador multipaís con protección de seguridad y puertos USB integrados.",
+    "stock": 28, "local": "Oficina Norte", "image": "assets/products/accesorios-hge.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-28"
+  },
+  {
+    "id": 42, "name": "Protector de pantalla premium", "brand": "SmartLine", "category": "Accesorios",
+    "description": "Vidrio templado resistente con alta transparencia y aplicación sin burbujas.",
+    "stock": 84, "local": "Plaza París", "image": "assets/products/accesorios-hge.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-05-17"
+  },
+  {
+    "id": 43, "name": "Soporte ajustable para celular", "brand": "NovaTech", "category": "Accesorios",
+    "description": "Soporte de escritorio plegable con altura y ángulo ajustables.",
+    "stock": 45, "local": "Plaza del Valle", "image": "assets/products/accesorios-hge.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-05-07"
+  },
+  {
+    "id": 44, "name": "Memoria de alta velocidad para cámara", "brand": "CamPower", "category": "Accesorios",
+    "description": "Tarjeta de memoria para fotografía y grabación fluida de video en alta resolución.",
+    "stock": 39, "local": "Oficina Norte", "image": "assets/products/accesorios-hge.svg",
+    "status": "Nuevo", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-29"
+  },
+  {
+    "id": 45, "name": "Kit de limpieza para cámara", "brand": "CamPower", "category": "Accesorios",
+    "description": "Soplador, brocha, paños y solución para el cuidado de cámaras y lentes.",
+    "stock": 25, "local": "Plaza París", "image": "assets/products/accesorios-hge.svg",
+    "status": "Normal", "isFeatured": false, "isPromotion": false, "createdAt": "2026-04-17"
+  },
+  {
+    "id": 46, "name": "Power bank de carga rápida 20K", "brand": "PowerPlus", "category": "Accesorios",
+    "description": "Batería externa de 20.000 mAh con USB-C PD y pantalla digital.",
+    "stock": 30, "local": "Plaza del Valle", "image": "assets/products/accesorios-hge.svg",
+    "status": "Promoción", "isFeatured": false, "isPromotion": true, "createdAt": "2026-04-05"
+  }
+]
